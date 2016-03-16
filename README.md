@@ -1,4 +1,4 @@
-#php mysqli
+#php pdo
 
 因應mysql_connect用法將在php未來的版本中被移除
 
