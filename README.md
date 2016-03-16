@@ -8,5 +8,5 @@
 
 |類型                                        |說明                                         |
 |--------------------------------------------|---------------------------------------------|
-|[object](object/)                           |使用object連線                               |
-|[procedural](procedural/)                   |使用procedural連線                           |
+|[mysql.inc.php](pdo/mysql.inc.php)          |php使用pdo的連線語法                         |
+|[query.php](pdo/query.php)                  |php使用pdo的查詢語法                         |
